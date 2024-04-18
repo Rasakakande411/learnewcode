@@ -1,0 +1,66 @@
+body{
+    /*      top right bottom left */
+    /* margin: 20px 50px   15px   100px; */
+
+    margin: 0;
+
+    padding: 0;
+    background-image: url(skydive3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+
+    nav{
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    nav span{
+        display: flex;
+
+    }
+
+    nav ul {
+        display: flex;
+    }
+
+    nav ul li{
+        padding: 0 20px;
+        list-style: none;
+        color: white;
+        
+
+    }
+
+    img{
+        height: 50px;
+        width: 50px;
+        border-radius: 100%;
+        margin: 10px 8px 0 0;
+    }
+
+    .sky{
+        color: black;
+    }
+
+    #lorem{
+        text-align: center;
+        font-size: 70px;
+        color: black;
+    }
+
+    button{
+        background-color: black;
+        color: white;
+        height: 50px;
+        width: 130px;
+        margin: 0 900px;
+        padding: 10px;
+        border-radius: 10px;
+        border: none;
+    }
+
+    button:hover{
+        background-color: rgba(0, 0, 0, 0);
+        color:blueviolet;
+    }

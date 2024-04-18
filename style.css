@@ -1,0 +1,26 @@
+ /* tag method */
+ a{
+    color : green;
+     text-decoration: none;
+ }
+  
+ /* class method */
+ .bag{
+     display: flex;
+    justify-content: space-between;
+ }
+
+ .bag li{
+     list-style: none;
+ }
+
+ /* id method */
+ #John{
+     display: flex;
+     justify-content: space-between;
+ }
+
+ #John li{
+     list-style: none;
+     color: yellow;
+ }
