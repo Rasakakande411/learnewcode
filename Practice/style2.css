@@ -1,0 +1,52 @@
+p{
+    color: red;
+}
+
+h1{
+    margin-bottom: 10px;
+    color: black;
+    padding: 100px;
+    text-align: center;
+}
+
+body{
+
+    margin: 0;
+    padding: 0;
+    background-image: url(Skydive1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+    .lorem1{
+
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: black;
+        padding: 7px 50px;
+        text-align: baseline;
+        font-size: 40px;
+        font-weight: none;
+        
+    }
+
+    .lorem2{
+
+        margin-top: 10px;
+        color: black;
+        padding: 7px 50px;
+        text-align: baseline;
+        font-size: 40px;
+        font-weight: none;
+    }
+
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    padding: 7px 50px;
+    text-align: baseline;
+    font-size: 40px;
+    font-weight: none;
+}

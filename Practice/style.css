@@ -13,6 +13,7 @@ body{
     nav{
         display: flex;
         justify-content: space-evenly;
+        
     }
 
     nav span{
@@ -25,16 +26,17 @@ body{
     }
 
     nav ul li{
-        padding: 0 20px;
+        padding: 0 30px;
         list-style: none;
         color: white;
+       font-size: 30px;
         
 
     }
 
     img{
-        height: 50px;
-        width: 50px;
+        height: 100px;
+        width: 100px;
         border-radius: 100%;
         margin: 10px 8px 0 0;
     }
@@ -46,7 +48,7 @@ body{
     #lorem{
         text-align: center;
         font-size: 70px;
-        color: black;
+        color: white;
     }
 
     button{
@@ -64,3 +66,13 @@ body{
         background-color: rgba(0, 0, 0, 0);
         color:blueviolet;
     }
+
+    .sky{
+        display: flex;
+        font-size: 25px;
+        
+    }
+
+    
+
+    
